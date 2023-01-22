@@ -1,13 +1,6 @@
 version: '3'
 
 services:
-  kimu:
-    build:
-      context: .
-      dockerfile: Dockerfile
-    depends_on:
-      - db
-
   db:
     image: mongo
     volumes:
