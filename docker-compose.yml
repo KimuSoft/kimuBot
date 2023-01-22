@@ -14,7 +14,7 @@ services:
     volumes:
       - mongo-data:/data/db
     ports:
-      - '127.0.0.1:27017'
+      - '127.0.0.1:27020:27017'
 
 volumes:
   mongo-data:
