@@ -8,4 +8,4 @@ WORKDIR /app
 
 COPY . .
 
-RUN yarn build
+RUN yarn && yarn build
