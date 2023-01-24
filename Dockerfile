@@ -11,3 +11,5 @@ RUN apt update && apt install -y build-essential libcairo2-dev libpango1.0-dev l
 COPY . .
 
 RUN yarn && yarn build
+
+CMD ["yarn", "prod"]
