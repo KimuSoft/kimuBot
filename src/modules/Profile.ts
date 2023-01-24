@@ -7,6 +7,7 @@ import {
 } from "discord.js"
 import { MuUser } from "../models/muUser"
 import { MuUserDocument } from "../types/muUser.type"
+import dedent from "dedent"
 
 class ProfileExtension extends Extension {
   @applicationCommand({
@@ -66,6 +67,15 @@ class ProfileExtension extends Extension {
         {
           name: "성향",
           value: getGraph(),
+        },
+        {
+          name: "주식",
+          value: dedent`
+            📈 키뮤소프트: ${user.kimuSoft}주
+            📈 키뮤노블: ${user.kimuNovel}주
+            📈 키뮤게임즈: ${user.kimuGames}주
+            📈 키뮤픽쳐즈: ${user.kimuPictures}주
+          `,
         },
       ])
       .setColor("#cbd5e1")
