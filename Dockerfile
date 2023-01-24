@@ -12,4 +12,4 @@ COPY . .
 
 RUN yarn && yarn build
 
-CMD ["yarn", "prod"]
+CMD ["yarn", "start"]
