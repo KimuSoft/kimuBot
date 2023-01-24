@@ -34,7 +34,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/node", "npm:18.11.18"],\
             ["@types/node-schedule", "npm:2.1.0"],\
             ["@types/random-normal", "npm:1.0.1"],\
-            ["chart.js", "npm:3.9.1"],\
+            ["chart.js", "npm:4.2.0"],\
             ["chartjs-adapter-moment", "virtual:4a6e61bcc47dacc169874b636fbfd3ad5c6d5f45a5a7f68ad65754d09d72454000f311061c183e4458013a23a9c439c7abffffefe22bee7a0d864325e9ab3cbc#npm:1.0.1"],\
             ["chartjs-node-canvas", "virtual:4a6e61bcc47dacc169874b636fbfd3ad5c6d5f45a5a7f68ad65754d09d72454000f311061c183e4458013a23a9c439c7abffffefe22bee7a0d864325e9ab3cbc#npm:4.1.6"],\
             ["dedent", "npm:0.7.0"],\
@@ -1108,6 +1108,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "linkType": "HARD"\
         }]\
       ]],\
+      ["@kurkle/color", [\
+        ["npm:0.3.2", {\
+          "packageLocation": "./.yarn/cache/@kurkle-color-npm-0.3.2-98f2086013-79e97b31f8.zip/node_modules/@kurkle/color/",\
+          "packageDependencies": [\
+            ["@kurkle/color", "npm:0.3.2"]\
+          ],\
+          "linkType": "HARD"\
+        }]\
+      ]],\
       ["@mapbox/node-pre-gyp", [\
         ["npm:1.0.10", {\
           "packageLocation": "./.yarn/cache/@mapbox-node-pre-gyp-npm-1.0.10-1811160047-1a98db05d9.zip/node_modules/@mapbox/node-pre-gyp/",\
@@ -1707,10 +1716,11 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["chart.js", [\
-        ["npm:3.9.1", {\
-          "packageLocation": "./.yarn/cache/chart.js-npm-3.9.1-931bfaba91-9ab0c0ac01.zip/node_modules/chart.js/",\
+        ["npm:4.2.0", {\
+          "packageLocation": "./.yarn/cache/chart.js-npm-4.2.0-5053d8bbec-281b023c01.zip/node_modules/chart.js/",\
           "packageDependencies": [\
-            ["chart.js", "npm:3.9.1"]\
+            ["chart.js", "npm:4.2.0"],\
+            ["@kurkle/color", "npm:0.3.2"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -1729,7 +1739,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["chartjs-adapter-moment", "virtual:4a6e61bcc47dacc169874b636fbfd3ad5c6d5f45a5a7f68ad65754d09d72454000f311061c183e4458013a23a9c439c7abffffefe22bee7a0d864325e9ab3cbc#npm:1.0.1"],\
             ["@types/chart.js", null],\
             ["@types/moment", null],\
-            ["chart.js", "npm:3.9.1"],\
+            ["chart.js", "npm:4.2.0"],\
             ["moment", "npm:2.29.4"]\
           ],\
           "packagePeers": [\
@@ -1755,7 +1765,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["chartjs-node-canvas", "virtual:4a6e61bcc47dacc169874b636fbfd3ad5c6d5f45a5a7f68ad65754d09d72454000f311061c183e4458013a23a9c439c7abffffefe22bee7a0d864325e9ab3cbc#npm:4.1.6"],\
             ["@types/chart.js", null],\
             ["canvas", "npm:2.11.0"],\
-            ["chart.js", "npm:3.9.1"],\
+            ["chart.js", "npm:4.2.0"],\
             ["tslib", "npm:2.4.1"]\
           ],\
           "packagePeers": [\
@@ -1822,7 +1832,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/node", "npm:18.11.18"],\
             ["@types/node-schedule", "npm:2.1.0"],\
             ["@types/random-normal", "npm:1.0.1"],\
-            ["chart.js", "npm:3.9.1"],\
+            ["chart.js", "npm:4.2.0"],\
             ["chartjs-adapter-moment", "virtual:4a6e61bcc47dacc169874b636fbfd3ad5c6d5f45a5a7f68ad65754d09d72454000f311061c183e4458013a23a9c439c7abffffefe22bee7a0d864325e9ab3cbc#npm:1.0.1"],\
             ["chartjs-node-canvas", "virtual:4a6e61bcc47dacc169874b636fbfd3ad5c6d5f45a5a7f68ad65754d09d72454000f311061c183e4458013a23a9c439c7abffffefe22bee7a0d864325e9ab3cbc#npm:4.1.6"],\
             ["dedent", "npm:0.7.0"],\
