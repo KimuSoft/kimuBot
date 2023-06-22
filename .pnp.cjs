@@ -28,7 +28,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         [null, {\
           "packageLocation": "./",\
           "packageDependencies": [\
-            ["@pikokr/command.ts", "virtual:4a6e61bcc47dacc169874b636fbfd3ad5c6d5f45a5a7f68ad65754d09d72454000f311061c183e4458013a23a9c439c7abffffefe22bee7a0d864325e9ab3cbc#npm:5.4.0"],\
+            ["@pikokr/command.ts", "virtual:4a6e61bcc47dacc169874b636fbfd3ad5c6d5f45a5a7f68ad65754d09d72454000f311061c183e4458013a23a9c439c7abffffefe22bee7a0d864325e9ab3cbc#npm:5.6.1"],\
             ["@swc/core", "npm:1.3.27"],\
             ["@types/dedent", "npm:0.7.0"],\
             ["@types/node", "npm:18.11.18"],\
@@ -1149,17 +1149,17 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@pikokr/command.ts", [\
-        ["npm:5.4.0", {\
-          "packageLocation": "./.yarn/cache/@pikokr-command.ts-npm-5.4.0-8f580489b7-ea43c499bd.zip/node_modules/@pikokr/command.ts/",\
+        ["npm:5.6.1", {\
+          "packageLocation": "./.yarn/cache/@pikokr-command.ts-npm-5.6.1-3a9333169a-c55d0d6396.zip/node_modules/@pikokr/command.ts/",\
           "packageDependencies": [\
-            ["@pikokr/command.ts", "npm:5.4.0"]\
+            ["@pikokr/command.ts", "npm:5.6.1"]\
           ],\
           "linkType": "SOFT"\
         }],\
-        ["virtual:4a6e61bcc47dacc169874b636fbfd3ad5c6d5f45a5a7f68ad65754d09d72454000f311061c183e4458013a23a9c439c7abffffefe22bee7a0d864325e9ab3cbc#npm:5.4.0", {\
-          "packageLocation": "./.yarn/__virtual__/@pikokr-command.ts-virtual-bb9822f772/0/cache/@pikokr-command.ts-npm-5.4.0-8f580489b7-ea43c499bd.zip/node_modules/@pikokr/command.ts/",\
+        ["virtual:4a6e61bcc47dacc169874b636fbfd3ad5c6d5f45a5a7f68ad65754d09d72454000f311061c183e4458013a23a9c439c7abffffefe22bee7a0d864325e9ab3cbc#npm:5.6.1", {\
+          "packageLocation": "./.yarn/__virtual__/@pikokr-command.ts-virtual-5e4cb274e6/0/cache/@pikokr-command.ts-npm-5.6.1-3a9333169a-c55d0d6396.zip/node_modules/@pikokr/command.ts/",\
           "packageDependencies": [\
-            ["@pikokr/command.ts", "virtual:4a6e61bcc47dacc169874b636fbfd3ad5c6d5f45a5a7f68ad65754d09d72454000f311061c183e4458013a23a9c439c7abffffefe22bee7a0d864325e9ab3cbc#npm:5.4.0"],\
+            ["@pikokr/command.ts", "virtual:4a6e61bcc47dacc169874b636fbfd3ad5c6d5f45a5a7f68ad65754d09d72454000f311061c183e4458013a23a9c439c7abffffefe22bee7a0d864325e9ab3cbc#npm:5.6.1"],\
             ["@types/discord.js", null],\
             ["@types/node", "npm:16.11.45"],\
             ["@types/tslog", null],\
@@ -1816,7 +1816,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",\
           "packageDependencies": [\
             ["command.ts-v5-template", "workspace:."],\
-            ["@pikokr/command.ts", "virtual:4a6e61bcc47dacc169874b636fbfd3ad5c6d5f45a5a7f68ad65754d09d72454000f311061c183e4458013a23a9c439c7abffffefe22bee7a0d864325e9ab3cbc#npm:5.4.0"],\
+            ["@pikokr/command.ts", "virtual:4a6e61bcc47dacc169874b636fbfd3ad5c6d5f45a5a7f68ad65754d09d72454000f311061c183e4458013a23a9c439c7abffffefe22bee7a0d864325e9ab3cbc#npm:5.6.1"],\
             ["@swc/core", "npm:1.3.27"],\
             ["@types/dedent", "npm:0.7.0"],\
             ["@types/node", "npm:18.11.18"],\

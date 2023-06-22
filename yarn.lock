@@ -1013,8 +1013,8 @@ __metadata:
   linkType: hard
 
 "@pikokr/command.ts@npm:^5.4.0":
-  version: 5.4.0
-  resolution: "@pikokr/command.ts@npm:5.4.0"
+  version: 5.6.1
+  resolution: "@pikokr/command.ts@npm:5.6.1"
   dependencies:
     "@types/node": ^16.0.0
     chalk: 4.1.2
@@ -1022,9 +1022,9 @@ __metadata:
     reflect-metadata: ^0.1.13
     walk-sync: ^3.0.0
   peerDependencies:
-    discord.js: "*"
+    discord.js: 14.8
     tslog: "*"
-  checksum: ea43c499bd9af226c85db9b217ce09b7269e1a4abe4fb0181b5a876df6917bb033c0c12ee061f68e3e8664f936a900209aa2be0eee9f82beacbb08d87f924784
+  checksum: c55d0d639695142a891d9f4a62daaca80ae09c5d2ddca717cb6268b00e538e126d433dbe47f4d92fae1201ecc7d63dd79c215fcf9913bd0280d94b7175c2c1c2
   languageName: node
   linkType: hard
 
