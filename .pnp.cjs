@@ -42,7 +42,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["moment", "npm:2.29.4"],\
             ["mongoose", "npm:6.8.4"],\
             ["node-schedule", "npm:2.1.1"],\
-            ["prettier", "npm:2.8.3"],\
+            ["prettier", "npm:2.8.8"],\
             ["random-normal", "npm:1.0.0"],\
             ["ts-node", "virtual:4a6e61bcc47dacc169874b636fbfd3ad5c6d5f45a5a7f68ad65754d09d72454000f311061c183e4458013a23a9c439c7abffffefe22bee7a0d864325e9ab3cbc#npm:10.9.1"],\
             ["tslog", "npm:4.7.1"],\
@@ -1830,7 +1830,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["moment", "npm:2.29.4"],\
             ["mongoose", "npm:6.8.4"],\
             ["node-schedule", "npm:2.1.1"],\
-            ["prettier", "npm:2.8.3"],\
+            ["prettier", "npm:2.8.8"],\
             ["random-normal", "npm:1.0.0"],\
             ["ts-node", "virtual:4a6e61bcc47dacc169874b636fbfd3ad5c6d5f45a5a7f68ad65754d09d72454000f311061c183e4458013a23a9c439c7abffffefe22bee7a0d864325e9ab3cbc#npm:10.9.1"],\
             ["tslog", "npm:4.7.1"],\
@@ -2803,10 +2803,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["prettier", [\
-        ["npm:2.8.3", {\
-          "packageLocation": "./.yarn/cache/prettier-npm-2.8.3-2c5624c4ca-92f2ceb522.zip/node_modules/prettier/",\
+        ["npm:2.8.8", {\
+          "packageLocation": "./.yarn/cache/prettier-npm-2.8.8-430828a36c-b49e409431.zip/node_modules/prettier/",\
           "packageDependencies": [\
-            ["prettier", "npm:2.8.3"]\
+            ["prettier", "npm:2.8.8"]\
           ],\
           "linkType": "HARD"\
         }]\
