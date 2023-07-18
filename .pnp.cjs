@@ -40,7 +40,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["dedent", "npm:0.7.0"],\
             ["discord.js", "npm:14.7.1"],\
             ["moment", "npm:2.29.4"],\
-            ["mongoose", "npm:6.8.4"],\
+            ["mongoose", "npm:6.11.4"],\
             ["node-schedule", "npm:2.1.1"],\
             ["prettier", "npm:2.8.3"],\
             ["random-normal", "npm:1.0.0"],\
@@ -1828,7 +1828,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["dedent", "npm:0.7.0"],\
             ["discord.js", "npm:14.7.1"],\
             ["moment", "npm:2.29.4"],\
-            ["mongoose", "npm:6.8.4"],\
+            ["mongoose", "npm:6.11.4"],\
             ["node-schedule", "npm:2.1.1"],\
             ["prettier", "npm:2.8.3"],\
             ["random-normal", "npm:1.0.0"],\
@@ -2565,10 +2565,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["mongodb", [\
-        ["npm:4.12.1", {\
-          "packageLocation": "./.yarn/cache/mongodb-npm-4.12.1-715bb36a02-84590484b2.zip/node_modules/mongodb/",\
+        ["npm:4.16.0", {\
+          "packageLocation": "./.yarn/cache/mongodb-npm-4.16.0-f6d128b4ab-f0b1347739.zip/node_modules/mongodb/",\
           "packageDependencies": [\
-            ["mongodb", "npm:4.12.1"],\
+            ["mongodb", "npm:4.16.0"],\
             ["@aws-sdk/credential-providers", "npm:3.254.0"],\
             ["bson", "npm:4.7.2"],\
             ["mongodb-connection-string-url", "npm:2.6.0"],\
@@ -2590,13 +2590,13 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["mongoose", [\
-        ["npm:6.8.4", {\
-          "packageLocation": "./.yarn/cache/mongoose-npm-6.8.4-b564055a09-f23c3bbb22.zip/node_modules/mongoose/",\
+        ["npm:6.11.4", {\
+          "packageLocation": "./.yarn/cache/mongoose-npm-6.11.4-19d118859f-f062aa9b36.zip/node_modules/mongoose/",\
           "packageDependencies": [\
-            ["mongoose", "npm:6.8.4"],\
+            ["mongoose", "npm:6.11.4"],\
             ["bson", "npm:4.7.2"],\
             ["kareem", "npm:2.5.1"],\
-            ["mongodb", "npm:4.12.1"],\
+            ["mongodb", "npm:4.16.0"],\
             ["mpath", "npm:0.9.0"],\
             ["mquery", "npm:4.0.3"],\
             ["ms", "npm:2.1.3"],\

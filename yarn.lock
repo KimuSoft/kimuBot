@@ -1423,7 +1423,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"bson@npm:^4.7.0":
+"bson@npm:^4.7.2":
   version: 4.7.2
   resolution: "bson@npm:4.7.2"
   dependencies:
@@ -2226,12 +2226,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"mongodb@npm:4.12.1":
-  version: 4.12.1
-  resolution: "mongodb@npm:4.12.1"
+"mongodb@npm:4.16.0":
+  version: 4.16.0
+  resolution: "mongodb@npm:4.16.0"
   dependencies:
     "@aws-sdk/credential-providers": ^3.186.0
-    bson: ^4.7.0
+    bson: ^4.7.2
     mongodb-connection-string-url: ^2.5.4
     saslprep: ^1.0.3
     socks: ^2.7.1
@@ -2240,22 +2240,22 @@ __metadata:
       optional: true
     saslprep:
       optional: true
-  checksum: 84590484b2c93bce849ec1e334b064e983444ed73942061c91e09556348c80db9d4a40544b927cd795bdfbfc51d1b713a7df5ced4ecf13cd00fab5e3c3e32ada
+  checksum: f0b1347739cc362b82b3aabc7e7d4d74bc7a344ed1bbafd6f92681bcab440f6cc618ffa0438d41d2789cb34818f3b09d4c78f517b42160ebae55bf2c96f13953
   languageName: node
   linkType: hard
 
 "mongoose@npm:^6.8.4":
-  version: 6.8.4
-  resolution: "mongoose@npm:6.8.4"
+  version: 6.11.4
+  resolution: "mongoose@npm:6.11.4"
   dependencies:
-    bson: ^4.7.0
+    bson: ^4.7.2
     kareem: 2.5.1
-    mongodb: 4.12.1
+    mongodb: 4.16.0
     mpath: 0.9.0
     mquery: 4.0.3
     ms: 2.1.3
     sift: 16.0.1
-  checksum: f23c3bbb22cafa41ee7ea11357da85e734290c21d0d1283c5758aa0706646734c985f54ec93b5c775ff03aae3b18b09cd1a1c50f68186ac54898daca1bc8ef57
+  checksum: f062aa9b368921256e1a22410f532323c57d48959a88d0bd1b8f948e6048399d17aa391638073a1254c8937312e18a9637ea676b9fd92e0c5ae6588f5dbd589e
   languageName: node
   linkType: hard
 
