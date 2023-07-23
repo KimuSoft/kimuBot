@@ -31,7 +31,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@pikokr/command.ts", "virtual:4a6e61bcc47dacc169874b636fbfd3ad5c6d5f45a5a7f68ad65754d09d72454000f311061c183e4458013a23a9c439c7abffffefe22bee7a0d864325e9ab3cbc#npm:5.4.0"],\
             ["@swc/core", "npm:1.3.27"],\
             ["@types/dedent", "npm:0.7.0"],\
-            ["@types/node", "npm:18.11.18"],\
+            ["@types/node", "npm:18.17.0"],\
             ["@types/node-schedule", "npm:2.1.0"],\
             ["@types/random-normal", "npm:1.0.1"],\
             ["chart.js", "npm:3.9.1"],\
@@ -1404,10 +1404,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "HARD"\
         }],\
-        ["npm:18.11.18", {\
-          "packageLocation": "./.yarn/cache/@types-node-npm-18.11.18-d61e8a4a20-03f17f9480.zip/node_modules/@types/node/",\
+        ["npm:18.17.0", {\
+          "packageLocation": "./.yarn/cache/@types-node-npm-18.17.0-7e216793ee-3a43c5c554.zip/node_modules/@types/node/",\
           "packageDependencies": [\
-            ["@types/node", "npm:18.11.18"]\
+            ["@types/node", "npm:18.17.0"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -1819,7 +1819,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@pikokr/command.ts", "virtual:4a6e61bcc47dacc169874b636fbfd3ad5c6d5f45a5a7f68ad65754d09d72454000f311061c183e4458013a23a9c439c7abffffefe22bee7a0d864325e9ab3cbc#npm:5.4.0"],\
             ["@swc/core", "npm:1.3.27"],\
             ["@types/dedent", "npm:0.7.0"],\
-            ["@types/node", "npm:18.11.18"],\
+            ["@types/node", "npm:18.17.0"],\
             ["@types/node-schedule", "npm:2.1.0"],\
             ["@types/random-normal", "npm:1.0.1"],\
             ["chart.js", "npm:3.9.1"],\
@@ -3209,7 +3209,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@tsconfig/node12", "npm:1.0.11"],\
             ["@tsconfig/node14", "npm:1.0.3"],\
             ["@tsconfig/node16", "npm:1.0.3"],\
-            ["@types/node", "npm:18.11.18"],\
+            ["@types/node", "npm:18.17.0"],\
             ["@types/swc__core", null],\
             ["@types/swc__wasm", null],\
             ["@types/typescript", null],\
